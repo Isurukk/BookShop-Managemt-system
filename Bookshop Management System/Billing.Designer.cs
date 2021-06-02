@@ -561,7 +561,6 @@
             this.guna2CustomGradientPanel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvBill)).EndInit();
             this.ResumeLayout(false);
-
         }
 
         #endregion
